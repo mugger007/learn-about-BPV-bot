@@ -1,4 +1,4 @@
-# Learn-about-BPV Bot(http://t.me/learnaboutBPV_bot)
+# [Learn-about-BPV Bot](http://t.me/learnaboutBPV_bot)
 
 Current version: 1.0
 
