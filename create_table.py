@@ -5,7 +5,7 @@ conn_str = f"postgresql://{user}:{password}@{host}/{database}"
 engine = create_engine(conn_str)
 connection = engine.connect()
 metadata = MetaData()
-user_tb = Table('bpv_users', metadata,
+user_tb = Table('TABLE_NAME', metadata,
    Column('user_id', Integer, primary_key = True),
    Column('user_education', String(255)),
    Column('pre_quiz_q1', String(255)),
