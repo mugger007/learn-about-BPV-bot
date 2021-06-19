@@ -1,0 +1,5 @@
+host = 'ec2-54-197-100-79.compute-1.amazonaws.com'
+port = '5432'
+database = 'dbipvjcp13mtik'
+user = 'bkpepkiamqxzen'
+password = 'f5bbd241de761f56596c99a81e084aec640a84b53cd8386acd267d84fdc08dd1'
