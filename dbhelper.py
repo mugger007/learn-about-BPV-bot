@@ -9,7 +9,7 @@ class DBHelper:
         engine = create_engine(conn_str)
         metadata = MetaData(bind = engine)
         global user_tb
-        user_tb = Table('bpv_users', metadata, autoload = True)
+        user_tb = Table('TABLE_NAME', metadata, autoload = True)
 
     def add_user(self, user_id):
         query = insert(user_tb).values(user_id = user_id)
