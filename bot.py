@@ -669,7 +669,7 @@ def main():
                 MessageHandler(Filters.regex(r'^.*2.*$') & ~Filters.command, fact_of_the_day),
                 MessageHandler(Filters.regex(r'^.*3.*$') & ~Filters.command, help),
                 MessageHandler(Filters.regex(r'^.*Main Menu.*$') & ~Filters.command, main_menu),
-                MessageHandler(Filters.regex(r'^.*Get Started.*$') & ~Filters.command, main_menu),
+                MessageHandler(Filters.regex(r'^.*Get Started.*$') & ~Filters.command, learn_about_bpv_intro),
                 ],
         },
         fallbacks = [
