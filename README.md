@@ -2,4 +2,4 @@
 
 Current version: 1.0
 
-A Telegram bot (@learnaboutBPV_bot) developed as a part of a Final Year Project (FYP) that provides education on factors affecting long-term blood pressure variability (BPV) to healthcare professional trainees. An evaluation of the effectiveness and usefulness of the chatbot was also done using knowledge assessments and a usefulness questionnaire on the chatbot.
+A Telegram bot (@learnaboutBPV_bot) developed as a part of a Final Year Project (FYP) that provides education on factors affecting long-term blood pressure variability (BPV) to healthcare professional trainees. Also conducted data analysis on the results of the knowledge assessments and usefulness survey conducted on the chatbot to evaluate for the effectiveness and usefulness of the chatbot.
